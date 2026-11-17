@@ -1,4 +1,1 @@
-- 👋 Hello, I'm Mert Ünal and I am a Industrial Engineering student at Middle East Technical University
-- 👀 I’m interested in data science subjects
-- 🌱 I’m currently learning neural networks and large language models
-- 📫 How to reach me: in/unalmert
+
